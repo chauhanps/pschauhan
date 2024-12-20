@@ -22,11 +22,11 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Soumen Barman"
+  name             : "Prashant Chauhan"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
-  employer         : "IISER Kolkata"
+  employer         : "NIA/NIH"
   uri              : # URL
   email            : "soumenbarman710@gmail.com" 
 
