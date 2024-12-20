@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soumen's Homepage"
+title                    : "Prashant's Homepage"
 title_separator          : "-"
-name                     : &name "Soumen Barman"
+name                     : &name "Prashant Chauhan"
 description              : &description "personal description"
 url                      : https://soumen-barman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
