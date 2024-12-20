@@ -1,0 +1,12 @@
+---
+title: "Insulin fibril inhibition using glycopolymeric nanoassemblies"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: We synthesized block copolymers via RAFT polymerization, containing Boc-protected leucine and Ac-protected glucose. Deprotection yielded amphiphilic polymers forming nano aggregates in water inhibited insulin fibrillation through hydrophobic, electrostatic, and hydrogen bonding interactions. Biophysical techniques confirmed the inhibition, with molecular dynamics simulations supporting the findings.
+date: 2023-03-31
+venue: 'Biomater Sci.'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/bm/d2bm02078e'
+citation: 'Bera A, Ghosh P, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P. Insulin fibril inhibition using glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.'
+---
+
+To address the obstacles in insulin protein homeostasis leading to the formation of neurotoxic amyloid plaques associated with different diseases, herein we have synthesized block copolymers using the reversible addition–fragmentation chain transfer (RAFT) polymerization method, composed of tert-butoxycarbonyl (Boc) protected leucine and acetyl (Ac) protected glucose pendant moieties, respectively. Selective or dual deprotection of Boc- and Ac-groups from leucine and/or glucose moieties resulted in amphiphilic polymers, which self-assembled into nanoaggregates in aqueous medium, confirmed by critical aggregation concentration (CAC) determination, dynamic light scattering (DLS) and transmission electron microscopy (TEM). These glycopolymeric nanoassemblies were used to study the inhibition rates of insulin fibrillation and were found to impede the fibrillation of the insulin protein. Using several biophysical techniques, we observed that hydrophobic, electrostatic, and hydrogen bonding interactions were responsible for binding the insulin monomer/oligomer with various glycopolymeric aggregates, inhibiting insulin fibrillation. Tyrosine (Tyr) and Nile red (NR) fluorescence measurements manifested the hydrophobic interactions, whereas temperature-dependent fluorescence and isothermal titration calorimetry (ITC) measurements revealed respectively the hydrogen bonding and electrostatic interactions involved in the inhibition process of insulin amyloid formation. Molecular dynamics simulations further confirmed the involvement of different interactions among polymer–protein residues in averting the fibrillation process.

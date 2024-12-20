@@ -1,0 +1,11 @@
+---
+title: "Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain"
+collection: talks
+type: "Poster"
+permalink: /talks/2012-03-01-talk-1
+venue: "Poster presentation in Frontiers in Modern Biology (FIMB-2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)"
+date: 2023-01-01
+location: "Kolkata, India"
+---
+
+HBO1 a member of the MYST family of histone acetyltransferases (HATs), was initially identified as a binding partner of ORC that acetylates free histone H3, H4, and nucleosomal H3. It functions as a quaternary complex with the BRPF (BRPF1/2/3) scaffolding protein and two accessory proteins, ING4/5 and Eaf6. Interaction of BRPF2 with HBO1 has been shown to be important for regulating H3K14 acetylation during embryonic development. However, how BRPF2 directs the HBO1 HAT complex to chromatin to regulate its HAT activity toward nucleosomal substrates remains unclear. Our findings reveal novel interacting partners of the BRPF2 bromodomain that recognizes different acetyllysine residues on the N-terminus of histone H4, H3, and H2A and preferentially binds to H4K5ac, H4K8ac, and H4K5acK12ac modifications. In addition, mutational analysis of the BRPF2 bromodomain coupled with isothermal titration calorimetry binding and pull-down assays on the histone substrates identified critical residues responsible for acetyllysine binding. Moreover, the BRPF2 bromodomain could enrich H4K5ac mark-bearing mononucleosomes compared to other acetylated H4 marks. Consistent with this, ChIP-seq analysis revealed that BRPF2 strongly co-localizes with HBO1 at histone H4K5ac and H4K8ac marks near the transcription start sites in the genome. Our study provides novel insights into how the histone binding function of the BRPF2 bromodomain directs the recruitment of the HBO1 HAT complex to chromatin to regulate gene expression.
